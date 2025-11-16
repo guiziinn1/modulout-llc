@@ -1,1 +1,69 @@
-# modulout-llc
+<p align="center">
+  <img src="https://modulout.com/path-to-your-logo.png" width="160" alt="Modulout LLC Logo">
+</p>
+
+<h1 align="center">Modulout LLC</h1>
+
+<p align="center">
+  Building digital products for sports betting analytics, tipsters, and WordPress ecosystem.
+</p>
+
+---
+
+## 🚀 About Modulout LLC
+
+Modulout LLC is a software development company focused on building modern, scalable products for the sports betting and WordPress industries.  
+We create platforms and tools that help tipsters grow, track results, sell content, and manage digital workflows with confidence.
+
+Our mission is simple:  
+**Provide reliable and transparent technology that empowers tipsters, bettors, online creators, and businesses.**
+
+We operate globally under Modulout LLC (Wyoming, USA).
+
+---
+
+## 🧩 Products
+
+### 🎯 OwnTheGame — Tipster Platform & Automated Tracking  
+**Website:** https://ownethegame.app  
+A SaaS platform for automatic bet tracking, ROI and yield analytics, performance pages, and website hosting for tipsters.
+
+---
+
+### 🟡 TipsterScript — WordPress Plugin for Tipsters  
+**Website:** https://tipsterscript.com  
+A complete WordPress plugin that allows tipsters to publish predictions, track results, sell subscriptions, and build professional tipster websites.
+
+---
+
+### 🟣 TipsterScore — Tipster Ratings & Verified Stats  
+**Website:** https://tipsterscore.com  
+A platform offering transparent tipster profiles and trusted performance data.
+
+---
+
+## 🧱 Technologies We Work With
+
+- Go (Golang)
+- PHP & WordPress
+- MySQL, Redis
+- Node.js
+- Tailwind CSS / Bootstrap
+- Nginx, Docker
+- Sports Data APIs
+- Cloud infrastructure (Hetzner, DigitalOcean, Vultr)
+
+---
+
+## 🌐 Connect With Us
+
+- **Website:** https://modulout.com  
+- **LinkedIn:** (add your page link)
+- **Crunchbase:** (add your listing)  
+- **Twitter / X:** (add when ready)
+
+---
+
+<p align="center">
+  © Modulout LLC — Building sports tech, WordPress solutions, and data-driven products.
+</p>
